@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700">
+  <defs>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D9A3A3"/>
+      <stop offset="100%" stop-color="#DFC490"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="700" fill="url(#g6)"/>
+  <rect x="16" y="16" width="668" height="668" fill="none" stroke="#FFFDFA" stroke-opacity="0.55" stroke-width="2"/>
+  <g transform="translate(350,340)" fill="none" stroke="#5A3A2A" stroke-opacity="0.55" stroke-width="3">
+    <rect x="-22" y="-10" width="44" height="90" rx="6"/>
+    <path d="M0 -10 C -14 -30, -14 -50, 0 -66 C 14 -50, 14 -30, 0 -10 Z" fill="#F7EFDD" fill-opacity="0.8" stroke="none"/>
+  </g>
+  <text x="350" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#4A3A20" fill-opacity="0.75">Placeholder Photo 6</text>
+</svg>

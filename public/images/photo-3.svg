@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8C4C4"/>
+      <stop offset="100%" stop-color="#FBF6EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="700" fill="url(#g3)"/>
+  <rect x="16" y="16" width="668" height="668" fill="none" stroke="#FFFDFA" stroke-opacity="0.55" stroke-width="2"/>
+  <g transform="translate(350,340)" fill="none" stroke="#8C6A32" stroke-opacity="0.5" stroke-width="3">
+    <path d="M0 60 C 0 20, 0 -20, 0 -60"/>
+    <ellipse cx="-24" cy="10" rx="26" ry="14" transform="rotate(-35 -24 10)"/>
+    <ellipse cx="24" cy="-10" rx="26" ry="14" transform="rotate(35 24 -10)"/>
+    <ellipse cx="-20" cy="-35" rx="22" ry="12" transform="rotate(-25 -20 -35)"/>
+  </g>
+  <text x="350" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#6B5D4F" fill-opacity="0.7">Placeholder Photo 3</text>
+</svg>

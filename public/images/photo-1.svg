@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF6EE"/>
+      <stop offset="100%" stop-color="#DFC490"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#g1)"/>
+  <rect x="16" y="16" width="568" height="768" fill="none" stroke="#FFFDFA" stroke-opacity="0.55" stroke-width="2"/>
+  <g transform="translate(300,380)" fill="none" stroke="#8C6A32" stroke-opacity="0.5" stroke-width="3">
+    <circle cx="-28" cy="0" r="46"/>
+    <circle cx="28" cy="0" r="46"/>
+  </g>
+  <text x="300" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#6B5D4F" fill-opacity="0.7">Placeholder Photo 1</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#DFC490"/>
+      <stop offset="100%" stop-color="#E8C4C4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g2)"/>
+  <rect x="16" y="16" width="768" height="568" fill="none" stroke="#FFFDFA" stroke-opacity="0.55" stroke-width="2"/>
+  <path d="M400 330 C 360 280, 300 280, 300 230 C 300 195, 335 175, 365 195 C 380 205, 400 225, 400 245 C 400 225, 420 205, 435 195 C 465 175, 500 195, 500 230 C 500 280, 440 280, 400 330 Z"
+        fill="none" stroke="#8C6A32" stroke-opacity="0.5" stroke-width="3"/>
+  <text x="400" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#6B5D4F" fill-opacity="0.7">Placeholder Photo 2</text>
+</svg>

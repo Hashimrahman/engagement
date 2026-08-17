@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#AD8642"/>
+      <stop offset="100%" stop-color="#F5EBD9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#g4)"/>
+  <rect x="16" y="16" width="568" height="768" fill="none" stroke="#FFFDFA" stroke-opacity="0.55" stroke-width="2"/>
+  <g fill="#F7EFDD" fill-opacity="0.75">
+    <path d="M300 320 l6 16 16 6 -16 6 -6 16 -6 -16 -16 -6 16 -6 z"/>
+    <path d="M250 380 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z"/>
+    <path d="M355 400 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z"/>
+  </g>
+  <text x="300" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#FFFDFA" fill-opacity="0.85">Placeholder Photo 4</text>
+</svg>
