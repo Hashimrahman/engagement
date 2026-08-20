@@ -87,11 +87,10 @@ const config = {
     credit: "Made with love for our special day",
   },
 
-  // Background music — a placeholder tone ships in /public/audio.
-  // Swap in a real track (mp3/wav/ogg all work) and update the path.
+  // Background music
   music: {
-    src: "/audio/background-music.wav",
-    title: "Placeholder Track",
+    src: "/audio/bg-music.mp3",
+    title: "Our Song",
   },
 
   // Theme colors — mirror of tailwind.config.js palette, for reference or
