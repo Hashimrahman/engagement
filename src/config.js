@@ -76,9 +76,9 @@ const config = {
 
   // Venue section
   venue: {
-    name: "Grand Mist Resort",
-    address: "Niravilupuzha, Wayanad",
-    mapsUrl: "https://maps.google.com/?q=Grand+Mist+Resort+Niravilupuzha+Wayanad",
+    name: "Space Rock Resort",
+    address: "Kalpetta, Wayanad",
+    mapsUrl: "https://maps.app.goo.gl/DyR4hTCtbfevE37G6",
   },
 
   // Footer
