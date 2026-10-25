@@ -56,8 +56,8 @@ const config = {
     date: "1st November 2026",
     day: "Sunday",
     timeRange: "1:00 PM – 5:00 PM",
-    venueName: "Grand Mist Resort",
-    venueLocation: "Niravilupuzha, Wayanad",
+    venueName: "Space Rock Resort",
+    venueLocation: "Kalpetta, Wayanad",
   },
 
   // Gallery — drop images in /public/images and list them here
